@@ -17,11 +17,28 @@
 - interface with library APIs such as Discogs, Bandcamp, or MusicBrainz APIs to get suggestions for entry fields, such as label and subgenre
 - integrate album art from some source, e.g. [MusicBrainz](https://musicbrainz.org/doc/Cover_Art_Archive/API) API
 
+## Tech Stack
+
+- goal is to use MERN stack
+- database: mongodb
+- front end: start with vanilla HTML/CSS
+- eventually use React for front end
+- express.js for server side things
+
 ## Backend
 
-- database: mongodb
 - Example format:
 
 ```csv
 artist, album, year, genre, subgenre (array), label, country of origin, on spotify or not (bool)
 ```
+
+## Front End
+
+Overview:
+
+- main page presents data
+- have an add entry option
+- have an edit entry option
+- have a login page
+  - edit and add only available once logged in
