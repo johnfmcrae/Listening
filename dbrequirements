@@ -1,0 +1,3 @@
+mongodb
+
+artist, album, year, genre, subgenre (array), label, country of origin, on spotify or not (bool)
