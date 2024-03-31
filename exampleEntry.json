@@ -1,0 +1,48 @@
+{
+    "entries": [
+        {
+            "artist": "Oro Azul",
+            "release": "Water Seeds",
+            "year": 2024,
+            "genre": "Ambient",
+            "subgenres": [
+                "downtempo",
+                "dub"
+            ],
+            "label": "Mood Hut",
+            "rating": "B",
+            "best tracks": [
+                1,
+                2,
+                3
+            ],
+            "artist location": "Montreal",
+            "Canadian content": true,
+            "want to purchase": false,
+            "own": false,
+            "available on streaming": true
+        },
+        {
+            "artist": "Amanda Whiting",
+            "release": "The Liminality of Her",
+            "year": 2024,
+            "genre": "Jazz",
+            "subgenres": [
+                "spiritual jazz",
+                "Latin"
+            ],
+            "label": "First Word Records",
+            "rating": "B",
+            "best tracks": [
+                2,
+                3,
+                8
+            ],
+            "artist location": "UK",
+            "Canadian content": false,
+            "want to purchase": true,
+            "own": false,
+            "available on streaming": true
+        }
+    ]
+}
