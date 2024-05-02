@@ -1,4 +1,4 @@
-Artist,Album,Year,Genre,Subgenres,Label,Rating,Best Tracks,To Purchase,Notes
+Artist,Album,Year,Genre,Subgenres and Tags,Label,Rating,Best Tracks,To Purchase,Notes
 LEGEND,,,,,,"A, B, C, D, F",,,"Genres: Clasical, Pop/Rock, R&B, Jazz, Blues, Electronic, Ambient, Field Recording, Country"
 D'Angelo,Brown Sugar,1995,R&B,neo soul,EMI,C,"4, 6, 9, 10",,
 "Bonetta, Jonas and Huizinga, Edwin",Dark Watchers,2023,Ambient,"modern classical, folk",Independent,,3,,
@@ -62,3 +62,8 @@ Yoyu,it's all gonna be ok somehow ,2024,Electronic,"ambient, modern classical",I
 Fvlklvre,Thank You,2024,Ambient,"drone, field recordigs",Shimmering Moods Records,C,"5, 7",,Not on Spotify
 Various Artists,Andreas Dorau: Bureau B Favorites,2020,Electronic,"krautrock, krautronica",Bureau B,x - c,"1, 2, 7, 9, 11",,
 "Frischauf, Connie",Affekt & Tradition,2019,Electronic,"ambient, minimal, fourth world",Kame House,A,"1, 2, 3",w,
+Turn on the Sunlight,Canoga to Ha'iku,2024,Ambient,"spiritual, experimental, field recordings",Moon Glyph,C,"3, 6, 10",,
+Altered States,AS 02: Bobby Lee | 'Ancient Sunlight' ,2022,Electronic,"ambient, experimental, weird american",Centripetal Force,C,"3, 7, 9",,Not on Spotify
+Clone Rainbow,Hallways on Loop,2024,Ambient,"electronic, drone",imaginary north,C,"2, 4, 9",,"Can con, Toronto"
+"Wiltize, Adam",Eleven Fugues For Sodium Pentothal,2024,Ambient,"drone, soundtrack",kranky,B,"1, 4, 5, 6",,
+Infuso Giallo,Ocular Soda,2022,Electronic,"ambient, electronic, electronic listening music",Kame House,A,"1, 2, 4, 6",,
