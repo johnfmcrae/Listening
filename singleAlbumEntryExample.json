@@ -1,0 +1,22 @@
+{
+    "artist": "Oro Azul",
+    "release": "Water Seeds",
+    "year": 2024,
+    "genre": "Ambient",
+    "subgenres": [
+        "downtempo",
+        "dub"
+    ],
+    "label": "Mood Hut",
+    "rating": "B",
+    "best tracks": [
+        1,
+        2,
+        3
+    ],
+    "artist location": "Montreal",
+    "Canadian content": true,
+    "want to purchase": false,
+    "own": false,
+    "available on streaming": true
+}
